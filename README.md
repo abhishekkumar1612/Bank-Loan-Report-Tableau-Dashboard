@@ -182,7 +182,8 @@ Important fields analyzed in this dashboard:
 
 # 🔗 Project Links
 
-➡️ GitHub Repository: 
+➡️ GitHub Repository: https://github.com/abhishekkumar1612/Bank-Loan-Report-Tableau-Dashboard/tree/main
+
 ➡️ Tableau Public Dashboard: https://public.tableau.com/app/profile/abhishek.kumar2973/viz/BankLoanTableaueDashboard/Summary?publish=yes&showOnboarding=true
 
 ---
